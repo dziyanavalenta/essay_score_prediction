@@ -5,6 +5,6 @@ The repo contains a solution for the Kaggle task https://www.kaggle.com/competit
 
 For the best review experience, please follow this order for the Notebooks:
 
-1) Essay Scoring Short Report (located in )
-2) Essay Scoring Detailed Report (located in )
+1) **Essay Scoring Short Report** (located in experiment1 folder)
+2) **Essay Scoring Detailed Report** (located in experiment1 folder)
 If you need more details about Experiment 1 or Experiment 2 while reading the reports, you can refer to the Notebooks named starting with numbers 1, 2, 3, and so on (the order matters).
