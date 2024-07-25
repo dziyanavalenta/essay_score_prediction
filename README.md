@@ -1,4 +1,5 @@
 The repo contains a solution for the Kaggle task https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
+
 •	to read the report you should download the report and all png files and open the report as Jupiter Notebook (formatting in Github is distorted)
 •	train.csv is too big and can be downloaded from Kaggle
 •	persuade_2.0_human_scores_demo_id_github is too big and can be downloaded from Kaggle
